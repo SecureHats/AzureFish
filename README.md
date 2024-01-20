@@ -6,7 +6,21 @@
 [![Good First Issues](https://img.shields.io/github/issues/securehats/toolbox/good%20first%20issue?color=important&label=good%20first%20issue&style=flat)](https://github.com/securehats/toolbox/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 [![Needs Feedback](https://img.shields.io/github/issues/securehats/toolbox/needs%20feedback?color=blue&label=needs%20feedback%20&style=flat)](https://github.com/securehats/toolbox/issues?q=is%3Aopen+is%3Aissue+label%3A%22needs+feedback%22)
 
-# SecureHats Template
+```pwsh
+                                                          _|_|  _|            _|        
+  _|_|_|  _|_|_|_|  _|    _|  _|  _|_|    _|_|          _|            _|_|_|  _|_|_|    
+_|    _|      _|    _|    _|  _|_|      _|_|_|_|      _|_|_|_|  _|  _|_|      _|    _|  
+_|    _|    _|      _|    _|  _|        _|              _|      _|      _|_|  _|    _|  
+  _|_|_|  _|_|_|_|    _|_|_|  _|          _|_|_|        _|      _|  _|_|_|    _|    _| 
+```
+# Azure Fish
+
+Another Offensive project to harvest credentials using an ARM template deployment with a fancy UI<br>
+The initial idea is to lure the user into providing credentials required to deploy resources or a feature to Microsoft Azure<br>
+To do this the user needs to provide the credentials of a Service Principal or App Registration with permissions to deploy the resources.<br>
+
+In the background during deployment, the provided credentials are stored in a location of the malicious actor who is trying to lure the user.<br>
+Now that the credentials are leaked, these can be abused to hijack the subscription.
 
 <!-- This SecureHats repository is used to organize project information and artifacts. 
 
