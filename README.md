@@ -16,6 +16,7 @@ _|    _|    _|      _|    _|  _|        _|              _|      _|      _|_|  _|
 # Azure Fish
 
 Another Offensive project to harvest credentials using an ARM template deployment with a fancy UI<br>
+<br>
 The initial idea is to lure the user into providing credentials required to deploy resources or a feature to Microsoft Azure<br>
 To do this the user needs to provide the credentials of a Service Principal or App Registration with permissions to deploy the resources.<br>
 
