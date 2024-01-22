@@ -6,7 +6,7 @@ _|    _|      _|    _|    _|  _|_|      _|_|_|_|      _|_|_|_|  _|  _|_|      _|
 _|    _|    _|      _|    _|  _|        _|              _|      _|      _|_|  _|    _|  
   _|_|_|  _|_|_|_|    _|_|_|  _|          _|_|_|        _|      _|  _|_|_|    _|    _| 
 ```
-=========
+
 [![SecureHats](https://img.shields.io/badge/Open_Threat_Research-Community-brightgreen.svg)](https://twitter.com/dijkmanrogier)
 [![Maintenance](https://img.shields.io/maintenance/yes/2023.svg?style=flat-square)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)</br>
